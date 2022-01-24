@@ -1,4 +1,4 @@
-# Module 2 Part 1 Problems
+# Module 2 Part 2 Problems
 
 Please choose 5 of the problems from our assignment page to complete.
 
